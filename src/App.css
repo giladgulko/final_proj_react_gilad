@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-image: url('https://www.wallpapertip.com/wmimgs/5-59046_ocean-sunset-wallpaper-ocean-and-sunset-backgrounds.jpg');
 }
 
 .App-logo {
@@ -22,6 +23,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url('https://wallpapersplanet.net/sites/default/files/sunset-wallpapers-37508-1906405.png');
 }
 
 .App-link {
